@@ -1,1 +1,1 @@
-tuple
+const string &s
