@@ -1,1 +1,1 @@
-const string &s
+collect_unique_words
