@@ -1,1 +1,1 @@
-collect_unique_words
+cols
